@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MVPsample1</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="name">Name</string>
+    <string name="phanteon">Phanteon</string>
+    <string name="role">Role</string>
+    <string name="type">Type</string>
+    <string name="main_data_null">There\'s no data for load</string>
+    <string name="add_new">Add new</string>
+    <string name="error_input">Input error</string>
+    <string name="error_removing_god">The selected god was not deleted</string>
+    <string name="error_editing_god">Error modifying the god</string>
+    <string name="dialog_delete_title">Confirmation dialog</string>
+    <string name="dialog_delete_message">Are you sure to erase the selected god?</string>
+    <string name="dialog_delete_yes">Yes</string>
+    <string name="dialog_delete_no">No</string>
+
+</resources>
